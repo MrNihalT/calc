@@ -1,0 +1,30 @@
+#calc{
+    height: 500px;
+    width: 450px;
+    margin: 0 auto;
+    background: rgb(129, 214, 77);
+    text-align: center;
+    align-items: center;
+
+    border-radius: 8px;
+}
+#calc #display input{
+    background: white;
+    width: 90%;
+    height: 100px;
+    text-align: center;
+    align-items: center;
+    margin: 20px auto;
+    display: inline-block;
+    border-radius: 8px;
+    
+}
+#calc #rows{
+
+}
+#calc #rows button{
+    width: 90px;
+    height: 55px;
+    margin: 5px;
+    border-radius: 8px;
+}
